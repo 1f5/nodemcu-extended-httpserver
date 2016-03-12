@@ -1,4 +1,4 @@
-# nodemcu-simple-httpserver
+# nodemcu-extended-httpserver
 http server for nodemcu firmware >1.5
 
 ## Requirements
